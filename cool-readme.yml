@@ -1,0 +1,21 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: kumars38
+show: [about, languages]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  about:
+    headline: "Hi, I'm *Samarth*"
+    lines:
+      - "Master's student in Computer Science at the University of Waterloo, working with the Computational Neuroscience Research Group (CNRG)"
+  languages:
+    title: Most used languages
+    count: 8
+    hide: 
+      - "Jupyter Notebook"
+    other: false
